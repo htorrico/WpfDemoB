@@ -16,6 +16,7 @@ namespace WpfDemoB
     /// </summary>
     public partial class MainWindow : Window
     {
+        //Mi primer comentario
         public MainWindow()
         {
             InitializeComponent();
